@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Emmanuel Ochieng's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Emmanuel Ochieng
+Student, Data Scientist, IT Specialist, System Administrator, and Database Programmer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://linkedin.com/in/emmanueleraps" target="_blank">LikedIn</a>
+| <a href="https://github.com/OchiengEmmanuel" target="_blank">My GitHub page</a>
 </div>
 
 
@@ -17,31 +17,39 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Data Visaulization.
+- Database Programming.
+- System Administration
+- Data Science
+- IT Support
+
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+1. Optimizing data management systems: Researching scalable and resilient systems for handling growing data volumes.
+2. Enhancing data security through AI-driven cybersecurity techniques and Integrating AI to improve database performance and management processes.
+3. Exploring advanced data analytics
+4. Exploring predictive modeling, machine learning, and data visualization for actionable insights.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+<table>
+  <tr>
+    <td style="text-align:left; width: 20%;">Jan 2021 - now</td>
+    <td style="text-align:left; width: 80%;"><strong>BSc in Applied Technology, Brigham Young University, Idaho</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">2020-2022</td>
+    <td style="text-align:left;"><strong>Associate of Applied Science in Applied Technology, Brigham Young University, Idaho</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">2023</td>
+    <td style="text-align:left;"><strong>Certificate in System Administration, Brigham Young University, Idaho</strong></td>
+  </tr>
+</table>
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
+<!-- 
 ## Awards
 
 `2012`
@@ -49,11 +57,13 @@ President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
 
-
+-->
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Comming soon
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) 
 
 ### Journals
 
@@ -70,20 +80,29 @@ etc. etc. etc.
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
+-->
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2023 - 2024`
+__Bloom/GMS__, Idaho
 
-- Warden
-- Minted coins
+- Quality Assurance Specialist
+- Mentor
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2021 - 2024`
+__Airtel Kenya Network__, Kenya
+
+- Manager
+- Team Lead
+
+`2017 - 2020`
+__Ison BPO International__, Kenya
+
+- Customer Support
 
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<!-- ### Footer -->
+<footer>
+  <p>Last updated: December 2024</p>
+</footer>
