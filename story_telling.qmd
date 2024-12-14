@@ -7,7 +7,7 @@ subtitle: "My Data Science Portfolio"
 
 # My Journey In Data Science
 
-- My journey in data science began in 2024 when I was introduced to data analysis and visualization. I was fascinated by the power of data to drive decision-making and improve business outcomes. I quickly developed a passion for data science and began to explore different tools and techniques to enhance my skills.
+- My journey in data science began in January 2023 when I was introduced to data analysis and visualization in my new role as a Team Lead. I was fascinated by the power of data to drive decision-making and improve business outcomes. I quickly developed a passion for data science and began to explore different tools and techniques to enhance my skills.
 
 ## My Dream
 
