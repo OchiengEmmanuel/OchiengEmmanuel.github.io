@@ -1,10 +1,18 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
+title: "This is My Story"
+subtitle: "My Data Science Portfolio"
 # use quarto markdown to 
 ---
+- Versatile and detail-oriented professional with a strong background in data analysis, team leadership, and process improvement. Skilled in problem-solving, communication, and developing innovative solutions to complex challenges. Proficient in leveraging technology to streamline workflows and enhance efficiency. Known for adaptability, collaboration, and a commitment to delivering high-quality results in diverse environments.
 
-# Title 1 Header
-## Title 2 Header
+# My Journey In Data Science
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+- My journey in data science began in 2024 when I was introduced to data analysis and visualization. I was fascinated by the power of data to drive decision-making and improve business outcomes. I quickly developed a passion for data science and began to explore different tools and techniques to enhance my skills.
+
+## My Dream
+
+- I hope to leverage my skills and experience to make a positive impact in the field of data science. I am passionate about using data to solve complex problems and drive innovation. I am excited to continue learning and growing in this dynamic field.
+
+- I look forward to collaborating with other data scientists and professionals to develop cutting-edge solutions that drive business success and improve the lives of others.
+
+<!-- [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images) -->
